@@ -1,0 +1,4 @@
+data/train/
+data/test/
+.idea
+.ipynb_checkpoints
