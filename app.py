@@ -27,7 +27,7 @@ def predict():
         lst.append(img_class[0])
 
         if count % 3 == 0:
-            text = label[int(np.max(lst))]
+            text = label[int(np.mean(lst))]
             count = 0
             lst = []
 
@@ -41,7 +41,6 @@ def predict():
 
     vid.release()
     cv2.destroyAllWindows()
-
 
 
 if __name__ == "__main__":
