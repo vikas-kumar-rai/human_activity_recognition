@@ -1,4 +1,6 @@
-## HUMAN ACTIVITY RECOGNITION
+# HUMAN ACTIVITY RECOGNITION
+
+### Video attached in above file
 
 Following are the types of activity over which I am trying to classifying:
 -   YOGA  - tree pose
