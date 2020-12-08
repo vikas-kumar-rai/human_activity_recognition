@@ -7,7 +7,7 @@ Following are the types of activity over which I am trying to classifying:
 -   YOGA - goddess pose     
 -   walking
 
-### Data 
+## Data 
 
 Training set: 120 per class
 
@@ -18,7 +18,7 @@ Source of data: Google
 data link: https://drive.google.com/drive/folders/1gbOysxfIDh2kM7Ce3PBapQNBF-maOPG2?usp=sharing
 
 
-### Model
+## Model
 Resnet-50
 
  To run this project on your local system download or take clone using command
